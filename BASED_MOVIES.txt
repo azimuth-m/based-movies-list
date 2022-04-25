@@ -188,3 +188,6 @@
         Jack Reacher 2012
         The Infidel 2010
         Cube 1997
+        Nikita 1990
+        GoldenEye 1995
+        Le grand bleu 1988
