@@ -187,6 +187,7 @@
         The Final Cut 2004
         Jack Reacher 2012
         The Infidel 2010
+        Ip Man 2008
         Cube 1997
         Nikita 1990
         GoldenEye 1995
@@ -201,3 +202,4 @@
         The Hunt 2012
         Pusher II 2004
         Pusher III 2005
+        Bleeder 1999
