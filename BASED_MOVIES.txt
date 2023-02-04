@@ -229,3 +229,5 @@
         The Machinist 2004
         The Pale Blue Eye 2022
         Undisputed 2002
+        Blade Runner 1982
+        Blade Runner 2049 2017
